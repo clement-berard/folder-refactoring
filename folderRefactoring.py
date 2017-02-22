@@ -4,7 +4,7 @@
 
 # files filters
 fileFilter = ['.DS_Store']
-allowedExtension = ['avi', 'mkv', 'mp4', 'mp3', 'srt', 'sub', 'mov', 'txt']
+allowedExtension = ['avi', 'mkv', 'mp4', 'mp3', 'srt', 'sub', 'mov']
 resultFolderName = 'result'
 simulation = 1
 removeFolder = 0
